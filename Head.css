@@ -303,17 +303,18 @@ body {
     margin-left: 40px;
 }
 
-#emails {
+#myEmail {
     margin-top: 20px;
     margin-left: 40px;
     background-color: lightgrey;
     border: none;
 }
 
-#emails:focus {
+#myEmail:focus {
     border: none;
     outline: none;
 }
+
 
 .buttons {
     height: 15px;
@@ -321,6 +322,7 @@ body {
     margin-top: 10px;
     margin-left: 40px;
 }
+
 
 .footer {
     height: 50px;
